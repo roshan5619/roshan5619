@@ -21,7 +21,7 @@
 <p>
   <a href="https://github.com/roshan5619/Machine-Learning-Techniques"><img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge&logo=github" /></a>
   <a href="https://github.com/roshan5619/NLP-Projects"><img src="https://img.shields.io/badge/NLP%20Projects-red?style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/roshan5619/Deep-Learning-CV"><img src="https://img.shields.io/badge/Deep%20Learning%20CV-yellow?style=for-the-badge&logo=github" /></a>
+  <a href="[https://github.com/roshan5619/Deep-Learning-CV](https://github.com/roshan5619/Deep_Learning)"><img src="https://img.shields.io/badge/Deep%20Learning%20CV-yellow?style=for-the-badge&logo=github" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
