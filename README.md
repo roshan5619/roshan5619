@@ -9,7 +9,7 @@
 
 - 🤖 I work with **Deep Learning**, **NLP Models**, and frameworks like **PyTorch**, **TensorFlow**, and **Keras**
 
-- 👨‍💻 All of my projects are available at [My ML Projects](https://github.com/roshan5619/Machine-Learning-Techniques)
+- 👨‍💻 All of my projects are available at [My_Projects](https://github.com/roshan5619/Machine-Learning-Techniques)
 
 - 📫 How to reach me **broshann14@gmail.com**
 
