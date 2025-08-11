@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **broshann14@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KL_DboD-vi03eSlZFwwXYkyTUqXX0WWR/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RHpgSZQx4qNLNCv0c6WtYy914UA18Xbc/view?usp=sharing)
 
 - ⚡ Fun fact **Hodophile – I love to travel and explore**
 
