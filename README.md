@@ -2,7 +2,8 @@
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&lines=⚛️+Building+the+World's+First+Quantum+Facial+Biometric+System;🔬+VQC+%2B+CNN+Hybrid+Pipelines+%40+Lloyd's+Bank+Research;🤖+LLMs+%7C+LangChain+%7C+LangGraph+%7C+Transformers;🏐+Represented+India+at+Indo-Sri+Lanka+Youth+Cup+2024;🌍+Hodophile+—+Explorer+at+Heart" alt="Typing SVG" /></a>
+<!-- FIXED: Using correct demolab URL with proper encoding -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&width=700&height=45&lines=%E2%9A%9B%EF%B8%8F+Building+World%27s+First+Quantum+Facial+Biometric+System;%F0%9F%94%AC+VQC+%2B+CNN+Hybrid+Pipelines+%40+Lloyd%27s+Bank+Research;%F0%9F%A4%96+LLMs+%7C+LangChain+%7C+LangGraph+%7C+Transformers;%F0%9F%8F%90+Represented+India+at+Indo-Sri+Lanka+Youth+Cup+2024;%F0%9F%8C%8D+Hodophile+%E2%80%94+Explorer+at+Heart" alt="Typing SVG" />
 
 <br/>
 
@@ -131,7 +132,7 @@
 [![Traffic](https://img.shields.io/badge/🚦_Traffic_Prediction-4895EF?style=for-the-badge)](https://github.com/roshan5619/Deep_Learning)
 
 [![Kafka Pipeline](https://img.shields.io/badge/🔄_Real--Time_Data_Pipeline-181717?style=for-the-badge)](https://github.com/roshan5619)
-[![Ecommerce](https://img.shields.io/badge/🛒_Serverless_E--Commerce-0d1117?style=for-the-badge)](https://github.com/roshan5619)
+[![Ecommerce](https://img.shields.io/badge/🛒_Serverless_E--Commerce-333333?style=for-the-badge)](https://github.com/roshan5619)
 
 </div>
 
@@ -155,19 +156,27 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=roshan5619&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF6B6B&title_color=FF6B6B&icon_color=FFC93C&text_color=ffffff&bg_color=0d1117&hide_border=false"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan5619&layout=compact&theme=radical&border_color=FF6B6B&title_color=FF6B6B&text_color=ffffff&bg_color=0d1117"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan5619&theme=radical&border=FF6B6B&ring=FFC93C&fire=FF8E53&currStreakLabel=11D3BC&background=0d1117&dates=aaaaaa" alt="Streak"/>
+<!-- FIXED: Using anuraghazra stats which are most reliable -->
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=roshan5619&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF6B6B&title_color=FF6B6B&icon_color=FFC93C&text_color=ffffff&bg_color=0d1117&cache_seconds=1800"/>
+&nbsp;
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan5619&layout=compact&theme=radical&border_color=FF6B6B&title_color=FF6B6B&text_color=ffffff&bg_color=0d1117&cache_seconds=1800&langs_count=8"/>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshan5619/roshan5619/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshan5619/roshan5619/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake" src="https://raw.githubusercontent.com/roshan5619/roshan5619/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<!-- FIXED: Using streak-stats.demolab.com which is more reliable than herokuapp -->
+<img src="https://streak-stats.demolab.com?user=roshan5619&theme=radical&border=FF6B6B&ring=FFC93C&fire=FF8E53&currStreakLabel=11D3BC&background=0d1117&dates=aaaaaa&stroke=FF6B6B" alt="Streak"/>
 
+</div>
+
+<br/>
+
+<!-- SNAKE: Only renders after you set up the GitHub Action below -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshan5619/roshan5619/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshan5619/roshan5619/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake" src="https://raw.githubusercontent.com/roshan5619/roshan5619/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
 </div>
 
 ---
