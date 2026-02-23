@@ -155,9 +155,7 @@
 <div align="center">
 
 <!-- FIXED: Using anuraghazra stats which are most reliable -->
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=roshan5619&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF6B6B&title_color=FF6B6B&icon_color=FFC93C&text_color=ffffff&bg_color=0d1117&cache_seconds=1800"/>
-&nbsp;
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan5619&layout=compact&theme=radical&border_color=FF6B6B&title_color=FF6B6B&text_color=ffffff&bg_color=0d1117&cache_seconds=1800&langs_count=8"/>
+
 
 <br/><br/>
 
