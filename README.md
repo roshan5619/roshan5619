@@ -1,179 +1,162 @@
-<!-- <h1 align="center">Hi 👋, I'm Bandlapalli Roshan Babu</h1>
-<h3 align="center">A passionate AI , Data Science & Quantum Researcher </h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshan5619&label=Profile%20views&color=0e75b6&style=flat" alt="roshan5619" /> </p>
-
-
-
-- 📚 I’m currently pursuing **M.Tech in Artificial Intelligence and Data Science**
-
-- 🤖 I work with **Deep Learning**, **NLP Models**, and frameworks like **PyTorch**, **TensorFlow**, and **Keras**
-
-- 👨‍💻 All of my projects are available at [My_Projects](https://github.com/roshan5619/Machine-Learning-Techniques)
-
-- 📫 How to reach me **broshann14@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1RHpgSZQx4qNLNCv0c6WtYy914UA18Xbc/view?usp=sharing)
-
-- ⚡ Fun fact **Hodophile – I love to travel and explore**
-
-<h3 align="left">🚀 Featured Projects:</h3>
-<p>
-  <a href="https://github.com/roshan5619/Machine-Learning-Techniques"><img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/roshan5619/NLP"><img src="https://img.shields.io/badge/NLP%20Projects-red?style=for-the-badge&logo=github" /></a>
-  <a href="https://github.com/roshan5619/Deep_Learning"><img src="https://img.shields.io/badge/Deep%20Learning%20CV-yellow?style=for-the-badge&logo=github" /></a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/roshan-babu-59602a236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/roshan__1408/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/roshan1822123152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
-<a href="https://leetcode.com/broshann14/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://keras.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="keras" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=roshan5619&show_icons=true&locale=en&layout=compact" alt="roshan5619" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roshan5619&" alt="roshan5619" /></p> -->
+<!-- ██████╗  ██████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗    ██████╗  █████╗ ██████╗ ██╗   ██╗ -->
 
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Bandlapalli%20Roshan%20Babu&fontSize=42&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Quantum%20ML%20Researcher%20%7C%20IBM%20Qiskit%20Advocate%202025&descAlignY=60&descSize=16&descColor=a0c4ff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:FF6B6B,25:FF8E53,50:FFC93C,75:11D3BC,100:845EC2&height=220&section=header&text=Bandlapalli%20Roshan%20Babu&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=40&stroke=ffffff&strokeWidth=1&desc=⚛️%20Quantum%20ML%20Researcher%20%7C%20AI%2FML%20Engineer%20%7C%20IBM%20Qiskit%20Advocate%202025&descAlignY=65&descSize=15&descColor=ffe0b2"/>
 
-<!-- Typing Animation -->
+---
+
+<!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Quantum+Machine+Learning+Researcher+%F0%9F%94%AC;IBM+Qiskit+Advocate+2025+%E2%9A%9B%EF%B8%8F;Deep+Learning+%26+NLP+Engineer+%F0%9F%A4%96;Building+Quantum+Facial+Biometric+Systems+%F0%9F%91%81%EF%B8%8F;M.Tech+AI+%26+Data+Science+%40+Mahindra+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=FF6B6B&center=true&vCenter=true&width=750&lines=%F0%9F%94%AC+Quantum+Facial+Biometrics+Researcher;%E2%9A%9B%EF%B8%8F+IBM+Qiskit+Advocate+2025;%F0%9F%A4%96+Deep+Learning+%26+NLP+Engineer;%F0%9F%90%8D+LangChain+%7C+LangGraph+%7C+LLMs;%F0%9F%8F%86+Indo-Sri+Lanka+Youth+Cup+2024+%F0%9F%87%AE%F0%9F%87%B3;%F0%9F%8C%8D+Hodophile+%E2%80%94+Explorer+at+Heart" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-<!-- Social Badges -->
-<p>
-  <a href="https://www.linkedin.com/in/roshan-babu-59602a236/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:broshann14@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/roshan5619">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/broshann14/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.hackerrank.com/roshan1822123152">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
+<!-- SOCIAL BADGES -->
+<a href="https://www.linkedin.com/in/roshan-babu-59602a236/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:broshann14@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/roshan5619">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/broshann14/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://www.hackerrank.com/roshan1822123152">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+</a>
+<a href="https://drive.google.com/file/d/1RHpgSZQx4qNLNCv0c6WtYy914UA18Xbc/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=googledrive&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=roshan5619&label=Profile+Views&color=00d4ff&style=flat-square" alt="Profile Views"/>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=roshan5619&label=👁️+Profile+Views&color=FF8E53&style=flat-square&labelColor=1a1a2e" alt="Profile Views"/>
 
 </div>
 
 ---
 
-## ⚛️ About Me
+<img align="right" alt="Coding GIF" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+## 🌟 Who Am I?
 
 ```python
 class RoshanBabu:
-    def __init__(self):
-        self.name       = "Bandlapalli Roshan Babu"
-        self.role       = "AI/ML Engineer | Quantum ML Researcher"
-        self.education  = "M.Tech in AI & Data Science @ Mahindra University"
-        self.location   = "Hyderabad, India 🇮🇳"
-        self.research   = "Quantum-Classical Facial Biometric System @ Lloyd's Bank"
-        self.advocate   = "IBM Qiskit Advocate 2025 ⚛️"
-        self.sports     = "Represented India 🏐 Indo-Sri Lanka Youth Cup 2024"
-        self.fun_fact   = "Hodophile — I love to travel and explore 🌍"
+    name     = "Bandlapalli Roshan Babu"
+    role     = ["Quantum ML Researcher",
+                "AI/ML Engineer",
+                "IBM Qiskit Advocate 2025 ⚛️"]
+    location = "Hyderabad, India 🇮🇳"
+    edu      = "M.Tech AI & DS @ Mahindra University"
 
-    def current_focus(self):
-        return [
-            "🔬 Quantum Facial Biometrics with VQCs + CNNs",
-            "🤖 LLMs, LangChain & LangGraph Applications",
-            "☁️  Cloud-Native AI Deployment (Azure, Docker)",
-            "📊 Deep Learning & NLP Research",
-        ]
+    research = {
+        "lab":    "Lloyd's Bank × Mahindra University",
+        "topic":  "Quantum-Classical Facial Biometrics",
+        "status": "🟢 Active"
+    }
+
+    currently_building = [
+        "🔬 VQC + CNN hybrid biometric pipelines",
+        "🤖 LLM agents with LangGraph & LangChain",
+        "☁️  Containerised AI on Azure & Docker",
+    ]
+
+    fun_fact = "Represented 🇮🇳 India in Throwball 🏐"
+    hobby    = "Hodophile — I live to explore 🌍"
 ```
+
+<br clear="right"/>
 
 ---
 
-## ⚛️ Quantum ML Research
+## ⚛️ Quantum ML Research Spotlight
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Lloyd's%20Bank%20Research-Quantum%20Biometrics-00d4ff?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IBM-Qiskit%20Advocate%202025-1d3461?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/⚛️%20Lloyd's%20Bank%20Research-Active-11D3BC?style=for-the-badge&labelColor=0d1117"/>
+&nbsp;
+<img src="https://img.shields.io/badge/IBM%20Qiskit-Advocate%202025-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/SCI%202025-Poster%20Presenter-FFC93C?style=for-the-badge"/>
+
 </div>
 
 <br/>
 
-> 🔭 **Currently pioneering** the first-ever **Quantum-Classical Facial Biometric System** at Lloyd's Bank Research × Mahindra University — integrating Variational Quantum Circuits (VQCs) with classical CNNs for next-generation security systems.
+> 🔭 **Spearheading** the world's first **Quantum-Classical Facial Biometric System** — fusing Variational Quantum Circuits (VQCs) with classical CNNs for ultra-secure next-gen facial recognition. Containerised on Docker, deployed on Azure.
 
-| Research Area | Status | Technologies |
-|---|---|---|
-| 🧠 Quantum Facial Recognition | 🟢 Active | Qiskit, PyTorch, OpenCV |
-| ⚡ Variational Quantum Circuits (VQCs) | 🟢 Active | Qiskit, PennyLane |
-| 🔷 QCNN & QSVM Experiments | ✅ Completed | Qiskit, PennyLane, Docker |
-| 🔐 Oracle Circuit for Grover's Algorithm | ✅ Completed | Qiskit, QASM Simulator |
-
-📄 **Publication:** *Hybrid Quantum Machine Learning Methods for Facial Bio-Metrics* — Poster @ **SuperComputing India (SCI 2025)**
-
----
-
-## 🛠️ Tech Stack & Skills
+<br/>
 
 <div align="center">
 
-### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+| Project | Architecture | Status | Stack |
+|:---|:---|:---:|:---|
+| 🧠 **Quantum Facial Biometrics** | VQC + CNN Hybrid | 🟢 Active | Qiskit · PyTorch · Docker · Azure |
+| 🔷 **QCNN & QSVM Benchmarks** | Quantum CNN / SVM | ✅ Done | Qiskit · PennyLane · Docker |
+| 🔐 **Grover's Oracle Circuit** | Quantum Search | ✅ Done | Qiskit · QASM · IBM Quantum |
+| 📄 **ICIET Publication** | Inventory AI System | ✅ Published | Scikit-learn · Python |
+| 🎤 **SCI 2025 Poster** | Hybrid QML Biometrics | ✅ Presented | Qiskit · PyTorch · OpenCV |
+
+</div>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🐍 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🤖 AI / ML / DL Frameworks
+### 🤖 AI · ML · Deep Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### 🗣️ NLP · LLMs
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge)
+![BERT](https://img.shields.io/badge/BERT-FFB347?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/🤗%20Transformers-FFCA28?style=for-the-badge&logoColor=black)
+![NLTK](https://img.shields.io/badge/NLTK-154360?style=for-the-badge)
 
 ### ⚛️ Quantum Computing
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white)
-![IBM Quantum](https://img.shields.io/badge/IBM%20Quantum-1d3461?style=for-the-badge&logo=ibm&logoColor=white)
+![PennyLane](https://img.shields.io/badge/PennyLane-11D3BC?style=for-the-badge)
+![IBM Quantum](https://img.shields.io/badge/IBM%20Quantum%20Experience-1d3461?style=for-the-badge&logo=ibm&logoColor=white)
+![QASM](https://img.shields.io/badge/QASM%20Simulator-845EC2?style=for-the-badge)
 
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### ☁️ Cloud · DevOps · Containers
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+### 🗄️ Databases · Data Engineering
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
-### 📊 Data & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 📊 Visualization · Frontend
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![IBM SPSS](https://img.shields.io/badge/IBM%20SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
 
 </div>
 
@@ -183,24 +166,50 @@ class RoshanBabu:
 
 <div align="center">
 
-| 🔬 Quantum & QML | 🗣️ NLP & LLMs | 🧠 Deep Learning & CV |
-|---|---|---|
-| [⚛️ Quantum Facial Biometrics](https://github.com/roshan5619) | [🤖 Human-in-the-Loop GenAI App](https://github.com/roshan5619/NLP) | [👁️ Face Mask Detection CNN](https://github.com/roshan5619/Deep_Learning) |
-| [🔐 Grover's Oracle Circuit](https://github.com/roshan5619) | [🧩 QA Agent with LangGraph](https://github.com/roshan5619/NLP) | [📉 Anomaly Detection AutoEncoder](https://github.com/roshan5619/Deep_Learning) |
-| [📐 QCNN & QSVM Experiments](https://github.com/roshan5619) | [🌐 Multilingual Support Chatbot](https://github.com/roshan5619/NLP) | [⚡ Power Plant ANN from Scratch](https://github.com/roshan5619/Deep_Learning) |
-| | [💬 Emotion Detection BiLSTM](https://github.com/roshan5619/NLP) | [🚦 Traffic Volume Prediction](https://github.com/roshan5619/Deep_Learning) |
+### ⚛️ Quantum & QML
+| Project | Description | Stack |
+|:---|:---|:---|
+| [🔬 Quantum Facial Biometrics](https://github.com/roshan5619) | World-first hybrid VQC + CNN facial recognition system | Qiskit · PyTorch · Docker · Azure |
+| [📐 QCNN & QSVM Experiments](https://github.com/roshan5619) | Quantum CNN/SVM benchmarks for classification tasks | Qiskit · PennyLane · Docker |
+| [🔐 Grover's Oracle Circuit](https://github.com/roshan5619) | Quantum oracle for Grover's efficient search algorithm | Qiskit · QASM · IBM Quantum |
+
+### 🗣️ NLP · LLMs · GenAI
+| Project | Description | Stack |
+|:---|:---|:---|
+| [🤖 Human-in-the-Loop GenAI App](https://github.com/roshan5619/NLP) | Interactive AI with streaming & user-guided corrections | LangChain · Streamlit · Docker · PostgreSQL |
+| [🧩 QA Agent with LangGraph](https://github.com/roshan5619/NLP) | Multi-step reasoning QA agent | LangGraph · LangChain · Streamlit |
+| [🌐 Multilingual Support Chatbot](https://github.com/roshan5619/NLP) | Transformer chatbot with multi-language context awareness | Transformers · Docker · HTML/JS |
+| [💬 Emotion Detection BiLSTM](https://github.com/roshan5619/NLP) | Multi-class emotion recognition with GloVe + BiLSTM | GloVe · Keras · NLTK |
+| [📊 Twitter Sentiment Analysis](https://github.com/roshan5619/NLP) | 1D CNN pipeline for multi-class sentiment classification | TensorFlow · NLTK · PostgreSQL |
+
+### 🧠 Deep Learning · Computer Vision
+| Project | Description | Stack |
+|:---|:---|:---|
+| [⚡ ANN from Scratch — Power Plant](https://github.com/roshan5619/Deep_Learning) | Custom ANN with NumPy only; 18% error reduction | NumPy · Python · Matplotlib |
+| [📉 Anomaly Detection AutoEncoder](https://github.com/roshan5619/Deep_Learning) | Unsupervised ECG anomaly detection via reconstruction error | TensorFlow · Keras |
+| [👁️ Face Mask Detection CNN](https://github.com/roshan5619/Deep_Learning) | Real-time face mask classifier, containerised | TensorFlow · OpenCV · Docker |
+| [🚦 Traffic Volume Prediction](https://github.com/roshan5619/Deep_Learning) | Web-enabled forecasting model with live dashboard | PyTorch · Streamlit · PostgreSQL |
+
+### ☁️ DevOps · Full-Stack · Data Engineering
+| Project | Description | Stack |
+|:---|:---|:---|
+| [🔄 Real-Time Sales Data Pipeline](https://github.com/roshan5619) | Kafka → Spark → PostgreSQL streaming analytics | Kafka · Spark · Docker |
+| [🛒 Serverless E-Commerce App](https://github.com/roshan5619) | React frontend + serverless APIs + PostgreSQL | React · Docker · Vercel · REST |
+| [🎪 University Fest Registration App](https://github.com/roshan5619) | Full-stack event registration portal | ASP.NET Core MVC · SQL Server · C# |
 
 </div>
 
 <div align="center">
   <a href="https://github.com/roshan5619/Machine-Learning-Techniques">
-    <img src="https://img.shields.io/badge/🤖%20ML%20Projects-blue?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🤖%20All%20ML%20Projects-FF6B6B?style=for-the-badge"/>
   </a>
+  &nbsp;
   <a href="https://github.com/roshan5619/NLP">
-    <img src="https://img.shields.io/badge/🗣️%20NLP%20Projects-red?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🗣️%20NLP%20Projects-FFC93C?style=for-the-badge"/>
   </a>
+  &nbsp;
   <a href="https://github.com/roshan5619/Deep_Learning">
-    <img src="https://img.shields.io/badge/🧠%20Deep%20Learning-yellow?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/🧠%20Deep%20Learning-11D3BC?style=for-the-badge"/>
   </a>
 </div>
 
@@ -210,16 +219,17 @@ class RoshanBabu:
 
 <div align="center">
 
-| 🥇 Achievement | Details |
-|---|---|
-| ⚛️ **IBM Qiskit Advocate 2025** | Selected for the prestigious IBM Qiskit Advocate Program for contributions to quantum computing |
-| 🏐 **International Sports Rep** | Represented Indian Men's Throwball Team @ Indo-Sri Lanka Youth Cup 2024 — 🥈 Runner-up |
-| 📝 **Published Researcher** | *Inventory Management using AI* — Published @ ICIET Conference |
-| 🔬 **SuperComputing India 2025** | Poster Presentation on Hybrid QML Methods for Facial Biometrics |
-| 🎓 **Merit Scholarship** | Awarded for Academic Excellence — M.Tech @ Mahindra University |
-| 🌐 **Perplexity Campus Ambassador** | AI Literacy Advocate & Workshop Conductor |
-| 💻 **Google Code Vipasana 2025** | Participated in the prestigious Google coding competition |
-| 🎬 **Director of Photography** | Regional Short Film Competition — Creative Arts |
+| 🥇 | Achievement | Details |
+|:---:|:---|:---|
+| ⚛️ | **IBM Qiskit Advocate 2025** | Prestigious global recognition for quantum computing contributions |
+| 🏐 | **International Sports Rep — India** | Indo-Sri Lanka Youth Cup 2024 · 🥈 Runner-up |
+| 🏆 | **University Throwball Captain** | Led team strategy, training & competitive play @ Mahindra University |
+| 📝 | **Published Researcher** | *Inventory Management using AI* @ ICIET Conference |
+| 🎤 | **SuperComputing India SCI 2025** | Poster: Hybrid QML Methods for Facial Biometrics |
+| 🎓 | **Merit Scholarship** | Academic Excellence — M.Tech @ Mahindra University |
+| 🌐 | **Perplexity Campus Ambassador** | AI Literacy Advocate & Workshop Lead |
+| 💻 | **Google Code Vipasana 2025** | Prestigious Google coding competition participant |
+| 🎬 | **Director of Photography** | Regional Short Film Competition |
 
 </div>
 
@@ -228,22 +238,24 @@ class RoshanBabu:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshan5619&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=00d4ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan5619&layout=compact&theme=tokyonight&border_color=00d4ff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshan5619&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_color=FF6B6B&title_color=FF6B6B&icon_color=FFC93C&text_color=ffffff&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshan5619&layout=compact&theme=radical&border_color=FF6B6B&title_color=FF6B6B&text_color=ffffff&bg_color=0d1117"/>
+
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan5619&theme=tokyonight&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshan5619&theme=radical&border=FF6B6B&ring=FFC93C&fire=FF8E53&currStreakLabel=11D3BC&sideLabels=ffffff&background=0d1117&dates=aaaaaa" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
-<!-- Snake Animation -->
+<!-- 🐍 SNAKE CONTRIBUTION GRAPH -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/roshan5619/roshan5619/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/roshan5619/roshan5619/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/roshan5619/roshan5619/output/github-contribution-grid-snake-dark.svg"/>
+    <img alt="🐍 Contribution Snake" src="https://raw.githubusercontent.com/roshan5619/roshan5619/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
 </div>
 
@@ -251,16 +263,22 @@ class RoshanBabu:
 
 ## 🎓 Education
 
-```
-🎓 M.Tech — Artificial Intelligence & Data Science           CGPA: 7.38/10
-   Mahindra University, Hyderabad                            Aug 2024 – Present
-   Specialization: AI, Data Science, Quantum Machine Learning
-   🏅 Merit-Based Scholarship
+<div align="center">
 
-🎓 B.Tech — Computer Science & Engineering (AI & ML)        CGPA: 8.51/10
-   Presidency University, Bangalore                          Jun 2020 – May 2024
-   🏅 Graduated with Distinction
 ```
+╔══════════════════════════════════════════════════════════════════════════╗
+║  🎓 M.Tech — Artificial Intelligence & Data Science    CGPA: 7.38/10   ║
+║     Mahindra University, Hyderabad                  Aug 2024 – Present  ║
+║     Specialization: AI · Data Science · Quantum ML                      ║
+║     🏅 Merit-Based Scholarship for Academic Excellence                  ║
+╠══════════════════════════════════════════════════════════════════════════╣
+║  🎓 B.Tech — CSE (AI & ML)                             CGPA: 8.51/10   ║
+║     Presidency University, Bangalore                Jun 2020 – May 2024 ║
+║     🏅 Graduated with Distinction                                       ║
+╚══════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
@@ -268,24 +286,30 @@ class RoshanBabu:
 
 <div align="center">
 
-![Quantum ML](https://img.shields.io/badge/Quantum%20Machine%20Learning-6929C4?style=flat-square&logo=ibm&logoColor=white)
-![LLMs](https://img.shields.io/badge/Large%20Language%20Models-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-27338e?style=flat-square&logo=opencv&logoColor=white)
-![NLP](https://img.shields.io/badge/Natural%20Language%20Processing-D14836?style=flat-square)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-00d4ff?style=flat-square)
-![Cloud AI](https://img.shields.io/badge/Cloud--Native%20AI-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning%20Architectures-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Quantum ML](https://img.shields.io/badge/⚛️%20Quantum%20Machine%20Learning-6929C4?style=for-the-badge)
+![Hybrid QC](https://img.shields.io/badge/🔀%20Hybrid%20Quantum--Classical-845EC2?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/🤖%20Large%20Language%20Models-FF6B6B?style=for-the-badge)
+![GenAI](https://img.shields.io/badge/✨%20Generative%20AI-FF8E53?style=for-the-badge)
+![CV](https://img.shields.io/badge/👁️%20Computer%20Vision-11D3BC?style=for-the-badge)
+![NLP](https://img.shields.io/badge/🗣️%20Natural%20Language%20Processing-FFC93C?style=for-the-badge)
+![Cloud AI](https://img.shields.io/badge/☁️%20Cloud--Native%20AI-0089D6?style=for-the-badge)
+![DL](https://img.shields.io/badge/🧠%20Deep%20Learning%20Architectures-EE4C2C?style=for-the-badge)
+![Containerised AI](https://img.shields.io/badge/🐳%20Containerised%20AI%20Deployment-2496ED?style=for-the-badge)
 
 </div>
 
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer&animation=fadeIn"/>
-</div>
 
-<div align="center">
-  <i>⚛️ "Bridging the quantum and classical worlds, one circuit at a time." ⚛️</i>
-  <br/><br/>
-  <b>📫 Reach me at: broshann14@gmail.com</b>
+### 💬 Let's Connect & Collaborate!
+
+*Open to research collaborations, AI/ML projects, and quantum computing discussions.*
+
+**📫 broshann14@gmail.com &nbsp;|&nbsp; 📍 Hyderabad, India**
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:845EC2,25:FF6B6B,50:FF8E53,75:FFC93C,100:11D3BC&height=130&section=footer&animation=fadeIn"/>
+
 </div>
