@@ -148,8 +148,8 @@ class RoshanBabu:
 ### 🗄️ Databases · Data Engineering
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![ChromaDB](https://img.shields.io)
+
 
 ### 📊 Visualization · Frontend
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -259,26 +259,8 @@ class RoshanBabu:
   </picture>
 </div>
 
----
 
-## 🎓 Education
 
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════════╗
-║  🎓 M.Tech — Artificial Intelligence & Data Science    CGPA: 7.38/10   ║
-║     Mahindra University, Hyderabad                  Aug 2024 – Present  ║
-║     Specialization: AI · Data Science · Quantum ML                      ║
-║     🏅 Merit-Based Scholarship for Academic Excellence                  ║
-╠══════════════════════════════════════════════════════════════════════════╣
-║  🎓 B.Tech — CSE (AI & ML)                             CGPA: 8.51/10   ║
-║     Presidency University, Bangalore                Jun 2020 – May 2024 ║
-║     🏅 Graduated with Distinction                                       ║
-╚══════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
 
 ---
 
