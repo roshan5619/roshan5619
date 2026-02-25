@@ -102,10 +102,8 @@
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 </div>
 
@@ -129,7 +127,6 @@
 [![FaceMask](https://img.shields.io/badge/👁️_Face_Mask_CNN-0096C7?style=for-the-badge)](https://github.com/roshan5619/Deep_Learning)
 [![Traffic](https://img.shields.io/badge/🚦_Traffic_Prediction-4895EF?style=for-the-badge)](https://github.com/roshan5619/Deep_Learning)
 
-[![Kafka Pipeline](https://img.shields.io/badge/🔄_Real--Time_Data_Pipeline-181717?style=for-the-badge)](https://github.com/roshan5619)
 [![Ecommerce](https://img.shields.io/badge/🛒_Serverless_E--Commerce-333333?style=for-the-badge)](https://github.com/roshan5619)
 
 </div>
